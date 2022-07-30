@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.inp{
+    width: 300px;
+    height: 4vh;
+    border: solid 1px rgb(29, 167, 205);
+    box-shadow: rgb(130, 127, 127);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

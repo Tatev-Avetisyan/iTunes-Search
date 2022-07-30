@@ -1,0 +1,29 @@
+.song-list-wrapper{
+    width: 75%;
+    height: 12vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: solid 2px #C6C6BF;
+    margin-top: 25px;
+}
+.img , .name-div,.more-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 14%;
+    height: 11vh;
+    border: solid 2px #C6C6BF;
+    margin: 1px;
+
+
+}
+.song-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 57%;
+    height: 11vh;
+    border: solid 2px #C6C6BF;
+    margin: 1px
+}

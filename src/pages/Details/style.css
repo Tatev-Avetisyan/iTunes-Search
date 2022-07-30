@@ -1,0 +1,30 @@
+.details-wrapper{
+    margin-left: 30px;
+}
+.detail-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 9%;
+        height: 11vh;
+        border: solid 2px #C6C6BF;
+        margin-top: 30px;
+        margin-bottom: 10px;
+}
+.name-detail{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.audio{
+    width: 40%;
+    height: 3vh;
+    
+}
+/* audio::-webkit-media-controls-timeline-container{
+    width: 40%;
+        height: 3vh;
+        color: rgb(99, 96, 96);
+        border-radius: 2 p
+} */
